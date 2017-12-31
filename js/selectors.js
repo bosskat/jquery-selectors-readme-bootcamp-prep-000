@@ -1,4 +1,4 @@
-function paragraphSelector(){
+window.paragraphSelector function() {
   let arr = $('p');
   return arr;
 }
