@@ -1,5 +1,4 @@
 function paragraphSelector(){
-  console.log("p");
   return $('p');
 }
 
